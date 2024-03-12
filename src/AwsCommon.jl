@@ -1,4 +1,4 @@
-module A
+module AwsCommon
 export hello, domath
 
 """
