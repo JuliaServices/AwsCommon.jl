@@ -1,4 +1,4 @@
-module Example
+module A
 export hello, domath
 
 """
