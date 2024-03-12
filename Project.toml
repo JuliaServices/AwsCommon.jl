@@ -1,5 +1,5 @@
-name = "AwsCrtCommon"
-uuid = "e152505b-a699-490f-9541-997267120aa8"
+name = "AwsCommon"
+uuid = "925a0558-bae9-4655-a597-d2ca221b7595"
 version = "1.0.0"
 
 [deps]
